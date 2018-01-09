@@ -3,4 +3,4 @@ general ideas/recommendation for log parsing
 
 
 ## Diagram
-!(logstash.jpeg)
+![logstash](./logstash.jpeg)
